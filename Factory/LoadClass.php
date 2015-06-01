@@ -3,7 +3,6 @@
 
 //测试类A
 class A{
-    
     public function __construct(){
         echo "new Class A<br>";
     }
@@ -25,8 +24,15 @@ class Factory{
     }
 }
 
+function __autoload($class_name)
+{
+    if(!class_exists($class_name)){
+        exit("$class_name is not defined!");
+    }
+}
+
 //测试
 Factory::loadClass("A");
 Factory::loadClass("B");
-//未引入的类C
+//未引入的类C，会触发autoload
 Factory::loadClass("C");
