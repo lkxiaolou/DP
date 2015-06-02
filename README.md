@@ -7,5 +7,6 @@
 
 ###目录
 1. Factory (工厂方法模式)
+1. Strategy (策略模式)
 1. Prototype (原型设计模式)
 1. Template (模版方法模式 )
