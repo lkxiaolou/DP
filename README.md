@@ -12,7 +12,7 @@
 强调类直接的松耦合。
 
 ###目录
-1. Factory (工厂模式)
+1. ![Factory](https://github.com/lkxiaolou/dp_test/tree/master/Factory) (工厂模式)
 1. Strategy (策略模式)
 1. Decorator (装饰模式)
 1. Proxy (代理模式)
