@@ -18,3 +18,4 @@
 1. Proxy (代理模式)
 1. Prototype (原型设计模式)
 1. Template (模版方法模式 )
+1. Facade (外观模式)
