@@ -21,3 +21,4 @@
 1. [Facade](./Facade) (外观模式)
 1. [Builder](./Builder) (建造者模式)
 1. [Observer](./Observer) (观察者者模式)
+1. [State](./State) (状态模式)
