@@ -22,3 +22,4 @@
 1. [Builder](./Builder) (建造者模式)
 1. [Observer](./Observer) (观察者者模式)
 1. [State](./State) (状态模式)
+1. [Memento](./Memento)(备忘模式)
