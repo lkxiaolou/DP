@@ -23,3 +23,4 @@
 1. [Observer](./Observer) (观察者者模式)
 1. [State](./State) (状态模式)
 1. [Memento](./Memento)(备忘模式)
+1. [Composite](./Composite)(组合模式)
